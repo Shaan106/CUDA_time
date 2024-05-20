@@ -1,3 +1,7 @@
+# What is this?
+
+These are my personal notes/braindump from when I was learning CUDA programming. My notes are mostly in the jupyter notebook, but some helpful code snippets are also in the README.
+
 Resources I'm learning from:
 
 - NVIDIA CUDA docs: https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
